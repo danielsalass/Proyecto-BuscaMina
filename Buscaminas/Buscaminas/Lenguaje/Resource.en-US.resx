@@ -135,6 +135,9 @@
   <data name="CrearCuenta" xml:space="preserve">
     <value>Create Account</value>
   </data>
+  <data name="CrearPartida" xml:space="preserve">
+    <value>Create match</value>
+  </data>
   <data name="Español" xml:space="preserve">
     <value>Spanish</value>
   </data>
@@ -155,6 +158,9 @@
   </data>
   <data name="Registrarse" xml:space="preserve">
     <value>Sign in</value>
+  </data>
+  <data name="UnirsePartida" xml:space="preserve">
+    <value>join game</value>
   </data>
   <data name="Usuario" xml:space="preserve">
     <value>User</value>

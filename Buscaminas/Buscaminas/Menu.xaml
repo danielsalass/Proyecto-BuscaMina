@@ -12,8 +12,8 @@
         <Button Content="UnirseP" HorizontalAlignment="Left" Margin="78,113,0,0" Name="UnirseP" VerticalAlignment="Top" Width="129" Click="UnirseP_Click"/>
         <Button Content="CerrarSesion" HorizontalAlignment="Left" Margin="189,228,0,0" Name="CerrarSesion" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
         <Button Content="CrearP" HorizontalAlignment="Left" Margin="78,147,0,0" Name="CrearP" VerticalAlignment="Top" Width="129" Click="Button_Click_1"/>
-        <TextBlock HorizontalAlignment="Left" Margin="24,248,0,0" TextWrapping="Wrap" Text="Español" Name="Español" MouseDown="Español_MouseDown" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="93,248,0,0" TextWrapping="Wrap" Text="Ingles" Name="Ingles" MouseDown="Ingles_MouseDown" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,230,0,0" TextWrapping="Wrap" Text="Español" Name="Español"  MouseDown="Español_MouseDown" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="78,230,0,0" TextWrapping="Wrap" Text="Ingles" Name="Ingles"  MouseDown="Ingles_MouseDown" VerticalAlignment="Top" RenderTransformOrigin="0.368,-1.274"/>
         <Button Content="ConsultarP" HorizontalAlignment="Left" Margin="78,185,0,0" Name="ConsultarP" VerticalAlignment="Top" Width="129" Click="Button_Click_2"/>
 
     </Grid>

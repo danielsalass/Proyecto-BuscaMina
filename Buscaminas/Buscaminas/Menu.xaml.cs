@@ -27,12 +27,23 @@ namespace Buscaminas
 
         public Menu()
         {
+            InitializeComponent();
             AdministradorDeRecursos = new ResourceManager("Buscaminas.lenguaje.Resource", typeof(MainWindow).Assembly);
             lenguaje = "es-MX";
             PonerTexto();
         
-            InitializeComponent();
+           
         }
+        
+
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow cerrarSesion = new MainWindow();
+            cerrarSesion.Show();
+            Close();
+        }
+
         private void PonerTexto()
         {
             cultura = CultureInfo.CreateSpecificCulture(lenguaje);
@@ -44,15 +55,6 @@ namespace Buscaminas
             Ingles.Text = AdministradorDeRecursos.GetString("Ingles", cultura);
             CerrarSesion.Content = AdministradorDeRecursos.GetString("CerrarSesion", cultura);
         }
-
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            MainWindow cerrarSesion = new MainWindow();
-            cerrarSesion.Show();
-            Close();
-        }
-
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
 
@@ -72,10 +74,11 @@ namespace Buscaminas
             lenguaje = "en-US";
             PonerTexto();
         }
+
         private void Español_MouseDown(object sender, MouseButtonEventArgs e)
         {
             lenguaje = "es-MX";
-
+            PonerTexto();
         }
     }
 }
