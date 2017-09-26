@@ -21,3 +21,5 @@ C:\Users\soni1\source\repos\Buscaminas\Buscaminas\obj\Debug\es-MX\Buscaminas.res
 C:\Users\soni1\source\repos\Buscaminas\Buscaminas\bin\Debug\en-US\Buscaminas.resources.dll
 C:\Users\soni1\source\repos\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Lenguaje.Resource.en-US.resources
 C:\Users\soni1\source\repos\Buscaminas\Buscaminas\obj\Debug\en-US\Buscaminas.resources.dll
+C:\Users\soni1\source\repos\Buscaminas\Buscaminas\obj\Debug\Menu.g.cs
+C:\Users\soni1\source\repos\Buscaminas\Buscaminas\obj\Debug\Menu.baml

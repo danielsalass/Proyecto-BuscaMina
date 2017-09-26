@@ -117,6 +117,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Bienvenido" xml:space="preserve">
+    <value>Welcome</value>
+  </data>
+  <data name="Cancelar" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="CerrarSesion" xml:space="preserve">
+    <value>Sign out</value>
+  </data>
+  <data name="ConsultarPuntaje" xml:space="preserve">
+    <value>Score</value>
+  </data>
   <data name="Contraseña" xml:space="preserve">
     <value>Password</value>
   </data>
@@ -135,8 +147,14 @@
   <data name="NContraseña" xml:space="preserve">
     <value>Contraseña</value>
   </data>
+  <data name="NombreDeUsuario" xml:space="preserve">
+    <value>Nombre de usuario</value>
+  </data>
   <data name="NombreUsuario" xml:space="preserve">
-    <value>Nobre de usuario</value>
+    <value>Username</value>
+  </data>
+  <data name="Registrarse" xml:space="preserve">
+    <value>Sign in</value>
   </data>
   <data name="Usuario" xml:space="preserve">
     <value>User</value>

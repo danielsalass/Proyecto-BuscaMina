@@ -55,7 +55,9 @@ namespace Buscaminas
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            Menu menu= new Menu();
+            menu.Show();
+            Close();
         }
 
         private void Ingles_MouseDown(object sender, MouseButtonEventArgs e)

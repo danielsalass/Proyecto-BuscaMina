@@ -7,13 +7,14 @@
         mc:Ignorable="d"
         Title="CrearUsuario" Height="340.336" Width="459.664">
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="63,40,0,0" TextWrapping="Wrap" Text="Nombre de usuario" VerticalAlignment="Top" Height="25" Width="118"/>
+        <TextBlock HorizontalAlignment="Left" Margin="63,40,0,0" TextWrapping="Wrap" Name="NombreDeUsuario" Text="Nombre de usuario" VerticalAlignment="Top" Height="25" Width="118"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="204,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <TextBlock HorizontalAlignment="Left" Margin="63,95,0,0" TextWrapping="Wrap" Text="Contraseña" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="63,95,0,0" TextWrapping="Wrap" Name="Contraseña" Text="Contraseña" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="204,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <Button Content="Registrarse " Name="Registrarse" HorizontalAlignment="Left" Margin="204,188,0,0" VerticalAlignment="Top" Width="75"/>
-        <TextBlock HorizontalAlignment="Left" Margin="49,274,0,0" TextWrapping="Wrap" Text="Español" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="132,274,0,0" TextWrapping="Wrap" Text="Ingles" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="49,274,0,0" TextWrapping="Wrap" Name="Español" Text="Español" MouseDown="Español_MouseDown" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="132,274,0,0" TextWrapping="Wrap"  Name="Ingles" Text="Ingles" MouseDown="Ingles_MouseDown"  VerticalAlignment="Top"/>
+        <Button Content="Cancelar" Name="Cancelar" HorizontalAlignment="Left" Margin="326,270,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
 
     </Grid>
 </Window>

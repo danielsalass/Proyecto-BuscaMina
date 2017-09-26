@@ -117,11 +117,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Bienvenido" xml:space="preserve">
+    <value>Bienvenido</value>
+  </data>
+  <data name="Cancelar" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="CerrarSesion" xml:space="preserve">
+    <value>Cerrar Sesion</value>
+  </data>
+  <data name="ConsultarPuntaje" xml:space="preserve">
+    <value>Consultar Puntaje</value>
+  </data>
   <data name="Contraseña" xml:space="preserve">
     <value>Contraseña</value>
   </data>
   <data name="CrearCuenta" xml:space="preserve">
     <value>Crear Cuenta</value>
+  </data>
+  <data name="CrearPartida" xml:space="preserve">
+    <value>Crear Partida</value>
   </data>
   <data name="Español" xml:space="preserve">
     <value>Español</value>
@@ -132,8 +147,17 @@
   <data name="Ingresar" xml:space="preserve">
     <value>Ingresar</value>
   </data>
+  <data name="NombreDeUsuario" xml:space="preserve">
+    <value>Nombre de usuario</value>
+  </data>
   <data name="NombreUsuario" xml:space="preserve">
-    <value />
+    <value>Nombre de usuario</value>
+  </data>
+  <data name="Registrarse" xml:space="preserve">
+    <value>Registrarse</value>
+  </data>
+  <data name="UnirsePartida" xml:space="preserve">
+    <value>Unirse a Partida</value>
   </data>
   <data name="Usuario" xml:space="preserve">
     <value>Usuario</value>
