@@ -1,0 +1,16 @@
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\Base de datos.dll.config
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\Base de datos.dll
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\Base de datos.pdb
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\EntityFramework.dll
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\MySql.Data.dll
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\EntityFramework.xml
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\MySql.Data.xml
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\soni1\source\repos\Servidor\Base de datos\obj\Debug\Base de datos.csproj.CoreCompileInputs.cache
+C:\Users\soni1\source\repos\Servidor\Base de datos\obj\Debug\Base de datos.dll
+C:\Users\soni1\source\repos\Servidor\Base de datos\obj\Debug\Base de datos.pdb
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\Base de datos.dll.CodeAnalysisLog.xml
+C:\Users\soni1\source\repos\Servidor\Base de datos\bin\Debug\Base de datos.dll.lastcodeanalysissucceeded

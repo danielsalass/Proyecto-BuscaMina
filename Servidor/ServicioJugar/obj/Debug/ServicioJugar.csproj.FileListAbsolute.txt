@@ -1,0 +1,8 @@
+C:\Users\soni1\source\repos\Servidor\ServicioJugar\obj\Debug\ServicioJugar.csproj.CoreCompileInputs.cache
+C:\Users\soni1\source\repos\Servidor\ServicioJugar\bin\Debug\ServicioJugar.dll.config
+C:\Users\soni1\source\repos\Servidor\ServicioJugar\bin\Debug\ServicioJugar.dll
+C:\Users\soni1\source\repos\Servidor\ServicioJugar\bin\Debug\ServicioJugar.pdb
+C:\Users\soni1\source\repos\Servidor\ServicioJugar\obj\Debug\ServicioJugar.dll
+C:\Users\soni1\source\repos\Servidor\ServicioJugar\obj\Debug\ServicioJugar.pdb
+C:\Users\soni1\source\repos\Servidor\ServicioJugar\bin\Debug\ServicioJugar.dll.CodeAnalysisLog.xml
+C:\Users\soni1\source\repos\Servidor\ServicioJugar\bin\Debug\ServicioJugar.dll.lastcodeanalysissucceeded

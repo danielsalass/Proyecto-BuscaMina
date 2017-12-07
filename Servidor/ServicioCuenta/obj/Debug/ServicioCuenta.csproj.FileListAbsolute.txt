@@ -1,0 +1,9 @@
+C:\Users\soni1\source\repos\Servidor\ServicioCuenta\obj\Debug\ServicioCuenta.csproj.CoreCompileInputs.cache
+C:\Users\soni1\source\repos\Servidor\ServicioCuenta\bin\Debug\ServicioCuenta.dll.config
+C:\Users\soni1\source\repos\Servidor\ServicioCuenta\bin\Debug\ServicioCuenta.dll
+C:\Users\soni1\source\repos\Servidor\ServicioCuenta\bin\Debug\ServicioCuenta.pdb
+C:\Users\soni1\source\repos\Servidor\ServicioCuenta\obj\Debug\ServicioCuenta.dll
+C:\Users\soni1\source\repos\Servidor\ServicioCuenta\obj\Debug\ServicioCuenta.pdb
+C:\Users\soni1\source\repos\Servidor\ServicioCuenta\bin\Debug\ServicioCuenta.dll.CodeAnalysisLog.xml
+C:\Users\soni1\source\repos\Servidor\ServicioCuenta\bin\Debug\ServicioCuenta.dll.lastcodeanalysissucceeded
+C:\Users\soni1\source\repos\Servidor\ServicioCuenta\obj\Debug\ServicioCuenta.csprojResolveAssemblyReference.cache

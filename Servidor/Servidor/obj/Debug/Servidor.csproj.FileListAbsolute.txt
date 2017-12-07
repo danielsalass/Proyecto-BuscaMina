@@ -1,0 +1,12 @@
+C:\Users\soni1\source\repos\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\soni1\source\repos\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\soni1\source\repos\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\soni1\source\repos\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\soni1\source\repos\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\soni1\source\repos\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\soni1\source\repos\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\soni1\source\repos\Servidor\Servidor\bin\Debug\ServicioCuenta.dll
+C:\Users\soni1\source\repos\Servidor\Servidor\bin\Debug\ServicioCuenta.pdb
+C:\Users\soni1\source\repos\Servidor\Servidor\bin\Debug\ServicioCuenta.dll.config
+C:\Users\soni1\source\repos\Servidor\Servidor\bin\Debug\Servidor.exe.CodeAnalysisLog.xml
+C:\Users\soni1\source\repos\Servidor\Servidor\bin\Debug\Servidor.exe.lastcodeanalysissucceeded
