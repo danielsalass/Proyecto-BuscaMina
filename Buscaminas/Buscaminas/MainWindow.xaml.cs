@@ -1,8 +1,10 @@
-﻿using System;
+﻿using Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 using System.Resources;
+using System.ServiceModel;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -25,6 +27,8 @@ namespace Buscaminas
         ResourceManager AdministradorDeRecursos;
         CultureInfo cultura;
         string lenguaje;
+        public ChannelFactory<IServicioCuenta> canal = new ChannelFactory<IServicioCuenta>("ExtremoServicioCuenta");
+        public IServicioCuenta proxy;
 
         public MainWindow()
         {
@@ -43,6 +47,7 @@ namespace Buscaminas
             Crear.Text = AdministradorDeRecursos.GetString("CrearCuenta", cultura);
             Español.Text = AdministradorDeRecursos.GetString("Español", cultura);
             Ingles.Text = AdministradorDeRecursos.GetString("Ingles", cultura);
+            proxy = canal.CreateChannel();
 
         }
 
@@ -57,6 +62,13 @@ namespace Buscaminas
         {
             Menu menu= new Menu();
             menu.Show();
+            
+           
+            var usuario = Usuario.Text;
+            var contra = Contraseña.Text;
+            var resultado = proxy.IniciarSesion(usuario, Sha256(contra));
+            MessageBox.Show(resultado);
+            
             Close();
         }
 
@@ -71,5 +83,18 @@ namespace Buscaminas
             lenguaje = "es-MX";
             PonerTexto();
         }
+
+        public string Sha256(string contrasena)
+        {
+            System.Security.Cryptography.SHA256Managed crypt = new System.Security.Cryptography.SHA256Managed();
+            StringBuilder hash = new StringBuilder();
+            byte[] crypto = crypt.ComputeHash(Encoding.UTF8.GetBytes(contrasena), 0, Encoding.UTF8.GetByteCount(contrasena));
+            foreach (byte theByte in crypto)
+            {
+                hash.Append(theByte.ToString("x2"));
+            }
+            return hash.ToString();
+        }
     }
 }
+

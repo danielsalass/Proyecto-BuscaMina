@@ -7,14 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
+        <Image Margin="-2,0,0,0" Source="fondo1.png" Stretch="Fill"/>
+
         <TextBox HorizontalAlignment="Left" Height="23" Margin="200,95,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="202,169,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
-        <Button Content="Ingresar" Name="Ingresar" HorizontalAlignment="Left" Margin="212,214,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
-        <TextBlock HorizontalAlignment="Left" Margin="26,284,0,0" TextWrapping="Wrap" Name="Español" Text="Español" MouseDown="Español_MouseDown" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="145,284,0,0" TextWrapping="Wrap" Name="Ingles" Text="Ingles" MouseDown="Ingles_MouseDown" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="200,64,0,0" TextWrapping="Wrap" Name="Usuario" Text="Usuario" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="202,139,0,0" TextWrapping="Wrap" Name="Contraseña" Text="Contraseña" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Height="23" Margin="355,252,0,0" TextWrapping="Wrap" Name="Crear" MouseDown="Crear_MouseDown" Text="Crear una cuenta" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox HorizontalAlignment="Left" Height="23" Margin="202,169,0,0"   VerticalAlignment="Top" Width="120"/>
+        <Button Content="Ingresar" x:Name="Ingresar" HorizontalAlignment="Left" Margin="212,214,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="26,284,0,0" TextWrapping="Wrap" x:Name="Español" Text="Español" MouseDown="Español_MouseDown" VerticalAlignment="Top" Foreground="#FFF7EAEA"/>
+        <TextBlock HorizontalAlignment="Left" Margin="145,284,0,0" TextWrapping="Wrap" x:Name="Ingles" Text="Ingles" MouseDown="Ingles_MouseDown" VerticalAlignment="Top" Foreground="#FFF3F0F0"/>
+        <TextBlock HorizontalAlignment="Left" Margin="200,64,0,0" TextWrapping="Wrap" x:Name="Usuario" Text="Usuario" VerticalAlignment="Top" Foreground="#FFF0E7E7"/>
+        <TextBlock HorizontalAlignment="Left" Margin="202,139,0,0" TextWrapping="Wrap" x:Name="Contraseña" Text="Contraseña" VerticalAlignment="Top" Foreground="#FFF1EAEA"/>
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="355,252,0,0" TextWrapping="Wrap" x:Name="Crear" MouseDown="Crear_MouseDown" Text="Crear una cuenta" VerticalAlignment="Top" Width="120" Foreground="#FFFDF4F4"/>
 
     </Grid>
 </Window>

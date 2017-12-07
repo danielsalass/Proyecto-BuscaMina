@@ -41,7 +41,7 @@ namespace Buscaminas
         {
             MainWindow cerrarSesion = new MainWindow();
             cerrarSesion.Show();
-            Close();
+            Close(); 
         }
 
         private void PonerTexto()
@@ -58,10 +58,16 @@ namespace Buscaminas
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
 
+            CrearPartida creaPar = new CrearPartida();
+            creaPar.Show();
+            Close();
         }
 
         private void UnirseP_Click(object sender, RoutedEventArgs e)
         {
+            UnirsePartida unirse = new UnirsePartida();
+            unirse.Show();
+            Close();
 
         }
 
@@ -79,6 +85,13 @@ namespace Buscaminas
         {
             lenguaje = "es-MX";
             PonerTexto();
+        }
+
+        private void ConsultarPun(object sender, RoutedEventArgs e)
+        {
+            Puntuaciones pun = new Puntuaciones();
+            pun.Show();
+            Close();
         }
     }
 }

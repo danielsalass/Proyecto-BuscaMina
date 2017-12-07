@@ -7,14 +7,16 @@
         mc:Ignorable="d"
         Title="Menu" Height="300" Width="300">
     <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="113,23,0,0" TextWrapping="Wrap" Text="Buscaminas" VerticalAlignment="Top" RenderTransformOrigin="-0.2,-1.016"/>
-        <TextBlock HorizontalAlignment="Left" Margin="113,59,0,0" TextWrapping="Wrap" Text="Bienvenido " Name="Bienvenido" VerticalAlignment="Top"/>
-        <Button Content="UnirseP" HorizontalAlignment="Left" Margin="78,113,0,0" Name="UnirseP" VerticalAlignment="Top" Width="129" Click="UnirseP_Click"/>
-        <Button Content="CerrarSesion" HorizontalAlignment="Left" Margin="189,228,0,0" Name="CerrarSesion" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
-        <Button Content="CrearP" HorizontalAlignment="Left" Margin="78,147,0,0" Name="CrearP" VerticalAlignment="Top" Width="129" Click="Button_Click_1"/>
-        <TextBlock HorizontalAlignment="Left" Margin="10,230,0,0" TextWrapping="Wrap" Text="Español" Name="Español"  MouseDown="Español_MouseDown" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="78,230,0,0" TextWrapping="Wrap" Text="Ingles" Name="Ingles"  MouseDown="Ingles_MouseDown" VerticalAlignment="Top" RenderTransformOrigin="0.368,-1.274"/>
-        <Button Content="ConsultarP" HorizontalAlignment="Left" Margin="78,185,0,0" Name="ConsultarP" VerticalAlignment="Top" Width="129" Click="Button_Click_2"/>
+        <Image Source="fondo1.png" Stretch="Fill"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="113,23,0,0" TextWrapping="Wrap" Text="Buscaminas" VerticalAlignment="Top" RenderTransformOrigin="-0.2,-1.016" Foreground="#FFFBF4F4"/>
+        <TextBlock HorizontalAlignment="Left" Margin="113,59,0,0" TextWrapping="Wrap" Text="Bienvenido " x:Name="Bienvenido" VerticalAlignment="Top" Foreground="#FFF0E0E0"/>
+        <Button Content="UnirseP" HorizontalAlignment="Left" Margin="78,113,0,0" x:Name="UnirseP" VerticalAlignment="Top" Width="129" Click="UnirseP_Click"/>
+        <Button Content="CerrarSesion" HorizontalAlignment="Left" Margin="189,228,0,0" x:Name="CerrarSesion" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="CrearP" HorizontalAlignment="Left" Margin="78,147,0,0" x:Name="CrearP" VerticalAlignment="Top" Width="129" Click="Button_Click_1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,230,0,0" TextWrapping="Wrap" Text="Español" x:Name="Español"  MouseDown="Español_MouseDown" VerticalAlignment="Top" Foreground="#FFF1E6E6"/>
+        <TextBlock HorizontalAlignment="Left" Margin="78,230,0,0" TextWrapping="Wrap" Text="Ingles" x:Name="Ingles"  MouseDown="Ingles_MouseDown" VerticalAlignment="Top" RenderTransformOrigin="0.368,-1.274" Foreground="#FFF3E7E7"/>
+        <Button Content="ConsultarP" HorizontalAlignment="Left" Margin="78,185,0,0" x:Name="ConsultarP" VerticalAlignment="Top" Width="129" Click="ConsultarPun"/>
 
     </Grid>
 </Window>
