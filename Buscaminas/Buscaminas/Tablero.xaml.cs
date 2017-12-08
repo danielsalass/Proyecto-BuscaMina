@@ -114,6 +114,8 @@ namespace Buscaminas
             Close();
         }
 
+
+
         private void agregarMarca(object sender, MouseButtonEventArgs e)
         {
             System.Windows.Controls.Button boton = sender as System.Windows.Controls.Button;
@@ -124,7 +126,21 @@ namespace Buscaminas
             brush.ImageSource = temp;
             boton.Background = brush;
         }
-    }
 
+        int i = 0;
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            i++;
+            if (i > 0 && i <= 9)
+            {
+                Tiempo.Content = ":" + i.ToString();
+            }
+            else
+            {
+                Tiempo.Content = ":" + i.ToString();
+                //timer1.Stop();
+            }
+        }
+    }
 }
 

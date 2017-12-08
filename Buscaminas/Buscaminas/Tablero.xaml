@@ -125,7 +125,7 @@
         <Button x:Name="_9_8" Content="" HorizontalAlignment="Left" Margin="290,332,0,0" VerticalAlignment="Top" Width="30" Height="30" RenderTransformOrigin="-0.424,-0.808" Click="Button_Click"/>
         <Button x:Name="_9_9" Content="" HorizontalAlignment="Left" Margin="325,332,0,0" VerticalAlignment="Top" Width="30" Height="30" RenderTransformOrigin="-0.424,-0.808" Click="Button_Click"/>
         <Rectangle HorizontalAlignment="Left" Height="47" Margin="392,131,0,0" Stroke="Black" VerticalAlignment="Top" Width="100" Fill="#FFFDFDFD"/>
-        <Label Content="5:25" HorizontalAlignment="Left" Margin="405,122,0,0" VerticalAlignment="Top" Height="56" Width="100" Background="{x:Null}" FontSize="36"/>
+        <Label Name="Tiempo" Content="5:25" HorizontalAlignment="Left" Margin="405,122,0,0" VerticalAlignment="Top" Height="56" Width="100" Background="{x:Null}" FontSize="36"/>
         <Button Content="INICIAR JUEGO" HorizontalAlignment="Left" Margin="392,197,0,0" VerticalAlignment="Top" Width="100" Height="50"/>
         <Label Content="TIEMPO:&#xD;&#xA;" HorizontalAlignment="Left" Margin="400,95,0,0" VerticalAlignment="Top" Foreground="White" Width="100" FontSize="20"/>
         <Button Content="FINALIZAR JUEGO" HorizontalAlignment="Left" Margin="392,262,0,0" VerticalAlignment="Top" Width="100" Click="finalizarJuego"/>
