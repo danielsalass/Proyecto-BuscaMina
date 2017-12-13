@@ -367,3 +367,42 @@ C:\Users\soni1\Desktop\Buscaminas-ver-08\Buscaminas-ver-04\Buscaminas-ver-01\Bus
 C:\Users\soni1\Desktop\Buscaminas-ver-08\Buscaminas-ver-04\Buscaminas-ver-01\Buscaminas ver 01\Buscaminas\Buscaminas\obj\Debug\es-MX\Buscaminas.resources.dll
 C:\Users\soni1\Desktop\Buscaminas-ver-08\Buscaminas-ver-04\Buscaminas-ver-01\Buscaminas ver 01\Buscaminas\Buscaminas\obj\Debug\Buscaminas.exe
 C:\Users\soni1\Desktop\Buscaminas-ver-08\Buscaminas-ver-04\Buscaminas-ver-01\Buscaminas ver 01\Buscaminas\Buscaminas\obj\Debug\Buscaminas.pdb
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe.config
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\Buscaminas.pdb
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\en-US\Buscaminas.resources.dll
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\es-MX\Buscaminas.resources.dll
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe.CodeAnalysisLog.xml
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe.lastcodeanalysissucceeded
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\Interfaces.dll
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\MySql.Data.dll
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\Interfaces.pdb
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\bin\Debug\MySql.Data.xml
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas.csprojResolveAssemblyReference.cache
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\Puntuaciones.g.cs
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\UnirsePartida.g.cs
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\CrearPartida.g.cs
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\CrearUsuario.g.cs
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\MainWindow.g.cs
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\Menu.g.cs
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\Tablero.g.cs
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\App.g.cs
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas_MarkupCompile.cache
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas_MarkupCompile.lref
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\Puntuaciones.baml
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\UnirsePartida.baml
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\CrearPartida.baml
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\CrearUsuario.baml
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\MainWindow.baml
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\Menu.baml
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\GUI\Tablero.baml
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas.g.resources
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Properties.Resources.resources
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Lenguaje.Resource.en-US.resources
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas.Lenguaje.Resource.es-MX.resources
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas.csproj.GenerateResource.Cache
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas.csproj.CoreCompileInputs.cache
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\en-US\Buscaminas.resources.dll
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\es-MX\Buscaminas.resources.dll
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas.exe
+C:\Users\jeus\Desktop\Proyecto-BuscaMina\Buscaminas\Buscaminas\obj\Debug\Buscaminas.pdb

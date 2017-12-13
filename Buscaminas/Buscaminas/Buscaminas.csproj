@@ -59,30 +59,30 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Operaciones.cs" />
-    <Compile Include="Puntuaciones.xaml.cs">
+    <Compile Include="Model\Operaciones.cs" />
+    <Compile Include="GUI\Puntuaciones.xaml.cs">
       <DependentUpon>Puntuaciones.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Tablero.xaml.cs">
+    <Compile Include="GUI\Tablero.xaml.cs">
       <DependentUpon>Tablero.xaml</DependentUpon>
     </Compile>
-    <Page Include="Puntuaciones.xaml">
+    <Page Include="GUI\Puntuaciones.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="UnirsePartida.xaml">
+    <Page Include="GUI\UnirsePartida.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="CrearPartida.xaml">
+    <Page Include="GUI\CrearPartida.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="CrearUsuario.xaml">
+    <Page Include="GUI\CrearUsuario.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MainWindow.xaml">
+    <Page Include="GUI\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -90,30 +90,30 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="UnirsePartida.xaml.cs">
+    <Compile Include="GUI\UnirsePartida.xaml.cs">
       <DependentUpon>UnirsePartida.xaml</DependentUpon>
     </Compile>
-    <Compile Include="CrearPartida.xaml.cs">
+    <Compile Include="GUI\CrearPartida.xaml.cs">
       <DependentUpon>CrearPartida.xaml</DependentUpon>
     </Compile>
-    <Compile Include="CrearUsuario.xaml.cs">
+    <Compile Include="GUI\CrearUsuario.xaml.cs">
       <DependentUpon>CrearUsuario.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
+    <Compile Include="GUI\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Menu.xaml">
+    <Page Include="GUI\Menu.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Tablero.xaml">
+    <Page Include="GUI\Tablero.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Menu.xaml.cs">
+    <Compile Include="GUI\Menu.xaml.cs">
       <DependentUpon>Menu.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -150,10 +150,10 @@
     <Resource Include="Resources\bomb1.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="fondo1.png" />
+    <Resource Include="GUI\fondo1.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="trabajando.png" />
+    <Resource Include="GUI\trabajando.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Interfaces\Interfaces.csproj">
